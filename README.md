@@ -1,8 +1,6 @@
 # image-processing-application
 
-This is a simple desktop application that allows users to upload an image, apply various filters, and save the filtered image. The app provides an intuitive interface to load images, apply adjustments like brightness, contrast, grayscale, sepia, and more, and then save the modified image to your device.
-
-Image Processing Application
+![Alt text](res/a4/image.png)
 
 _USE "help"/"h"/"--help"/"--h" as a command to see what all you can do here_
 
