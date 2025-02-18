@@ -4,7 +4,7 @@
 
 _USE "help"/"h"/"--help"/"--h" as a command to see what all you can do here_
 
-This is an image processing application that provides various image manipulation operations.
+This is an image processing desktop application that provides various image manipulation operations.
 It consists of a controller class ImageController and a model class ImageModel.
 The application can load images in different formats (like png, jpg and ppm), apply various image
 processing operations, and save the resulting images (can be saved in ppm, png or jpg).
