@@ -1,0 +1,31 @@
+load input/input.png landscape-png
+red-component landscape-png landscape-png-red-component
+green-component landscape-png landscape-png-green-component
+blue-component landscape-png landscape-png-blue-component
+value-component landscape-png landscape-png-value-component
+luma-component landscape-png landscape-png-luma-component
+intensity-component landscape-png landscape-png-intensity-component
+horizontal-flip landscape-png landscape-png-horizontal-flip
+vertical-flip landscape-png landscape-png-vertical-flip
+brighten 20 landscape-png landscape-png-brighten
+rgb-split landscape-png landscape-png-r-split landscape-png-g-split landscape-png-b-split
+rgb-combine landscape-png-rgb-combine landscape-png-r-split landscape-png-g-split landscape-png-b-split
+blur landscape-png landscape-png-blur
+sharpen landscape-png landscape-png-sharpen
+sepia landscape-png landscape-png-sepia
+save res/landscape-png-red-component.png landscape-png-red-component
+save res/landscape-png-green-component.png landscape-png-green-component
+save res/landscape-png-blue-component.png landscape-png-blue-component
+save res/landscape-png-value-component.png landscape-png-value-component
+save res/landscape-png-luma-component.png landscape-png-luma-component
+save res/landscape-png-intensity-component.png landscape-png-intensity-component
+save res/landscape-png-horizontal-flip.png landscape-png-horizontal-flip
+save res/landscape-png-vertical-flip.png landscape-png-vertical-flip
+save res/landscape-png-r-split.png landscape-png-r-split
+save res/landscape-png-g-split.png landscape-png-g-split
+save res/landscape-png-b-split.png landscape-png-b-split
+save res/landscape-png-rgb-combine.png landscape-png-rgb-combine
+save res/landscape-png-brighten.png landscape-png-brighten
+save res/landscape-png-blur.png landscape-png-blur
+save res/landscape-png-sharpen.png landscape-png-sharpen
+save res/landscape-png-sepia.png landscape-png-sepia
